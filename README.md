@@ -44,5 +44,5 @@ Clone the repo and open `index.html` in any browser. No build step is needed.
 
 ## Links
 
-- GitHub repository: `https://github.com/<username>/portfolio`
-- Live site (GitHub Pages): `https://<username>.github.io/portfolio/`
+- GitHub repository: `https://github.com/hk8028844/portfolio`
+- Live site (GitHub Pages): `https://hk8028844.github.io/portfolio/`
